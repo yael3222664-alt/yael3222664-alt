@@ -30,7 +30,7 @@ I am a passionate developer specializing in building end-to-end web applications
 
 ### 📫 How to reach me:
 * **GitHub:** [yael3222664-alt](https://github.com/yael3222664-alt)
-* **LinkedIn:** [הוסיפי קישור כאן]
+[הוסיפי קישור כאן]
 
 ---
 *"The best way to predict the future is to invent it."*
